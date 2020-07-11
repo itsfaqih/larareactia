@@ -2,5 +2,8 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 
+/* Nprogress */
+@import 'nprogress';
+
 /* Utilities */
 @import 'tailwindcss/utilities';

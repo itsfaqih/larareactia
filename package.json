@@ -30,6 +30,7 @@
         "@inertiajs/inertia": "^0.1.9",
         "@inertiajs/inertia-react": "^0.1.6",
         "@sentry/browser": "^5.19.1",
+        "@tailwindcss/ui": "^0.3.0",
         "dayjs": "^1.8.29",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
