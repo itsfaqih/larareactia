@@ -26,16 +26,13 @@
         "resolve-url-loader": "^3.1.0"
     },
     "dependencies": {
-        "@graywolfai/react-heroicons": "^1.0.0",
         "@inertiajs/inertia": "^0.1.9",
         "@inertiajs/inertia-react": "^0.1.6",
         "@sentry/browser": "^5.19.1",
         "@tailwindcss/ui": "^0.3.0",
-        "dayjs": "^1.8.29",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-helmet": "^6.1.0",
-        "react-select": "^3.1.0",
         "tailwindcss": "^1.4.6"
     }
 }
