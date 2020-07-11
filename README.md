@@ -24,5 +24,5 @@ php artisan serve
 ```
 
 ## To Do List (Maybe)
-[ ] Email verify template
-[ ] Reset password template
+- [ ] Email verify template
+- [ ] Reset password template
