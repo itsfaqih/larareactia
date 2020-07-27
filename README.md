@@ -1,8 +1,8 @@
 ## Installation
 1. Clone this repo.
 ```bash
-git clone https://github.com/itsfaqih/laravel-react-inertiajs-tailwind.git
-cd laravel-react-inertiajs-tailwind
+git clone https://github.com/itsfaqih/larareactia.git
+cd larareactia
 ```
 2. Install the dependencies.
 ```bash
