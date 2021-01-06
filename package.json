@@ -12,7 +12,7 @@
     "devDependencies": {
         "@babel/preset-react": "^7.0.0",
         "@tailwindcss/ui": "^0.3.0",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "classnames": "^2.2.6",
         "cross-env": "^7.0.2",
         "eslint": "^7.4.0",
